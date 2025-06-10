@@ -10,6 +10,10 @@ It served as a practical exercise in working with user input, string formatting,
 - Displays a clean, formatted ID card
 - Great for practicing input/output, string formatting, and basic logic in Python
 
+## 📸 Screenshot
+
+![ID Card Output](https://github.com/alarconjosejavier/bat-id-generator/blob/main/batch.png?raw=true)
+
 ## ▶️ How to Run
 
 ```bash
