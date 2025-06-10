@@ -1,1 +1,40 @@
+# macOS
 .DS_Store
+
+# Entornos virtuales
+.venv/
+env/
+ENV/
+venv/
+
+# Compilados de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Archivos de test generados
+*.cover
+*.log
+.coverage
+coverage.xml
+htmlcov/
+
+# VS Code settings
+.vscode/
+
+# Archivos de Jupyter (si usas)
+.ipynb_checkpoints/
+
+# Archivos de bases de datos temporales
+*.sqlite3
+
+# Archivos de paquetes
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Archivos de sistema
+Thumbs.db
+desktop.ini
